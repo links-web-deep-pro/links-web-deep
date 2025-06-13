@@ -104,4 +104,6 @@ To access darknet markets, you must use their official onion URLs. Always ensure
 Navigating the deep web requires understanding and caution. Using the right tools, verifying links, and adhering to security best practices are key to a safe and successful experience.
 Plase contribute and add stars to this repo.
 
-Update:  11 June
+
+
+Update:  13.06.2025
